@@ -3,7 +3,7 @@
 
 <h1> What’s Happening This <span style="white-space:nowrap">Week 💫</span> </h1>
 
-## [End of the Semester](https://canvas.sfu.ca/courses/69678/modules/items/2446683)
+## [End of the Semester](https://sfu.instructure.com/courses/2602/modules/items/29722)
 
 <h3> Live Sessions </h3>
 
@@ -11,7 +11,7 @@
 
 <h3> Important Reminders </h3>
 
-* [Storyboard Wireframe Peer Reviews (Assignment 4)](https://canvas.sfu.ca/courses/69678/assignments/751348) <span class='badge'> [Tue Aug 2 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220802T2359&p1=256)</span>
+* [Storyboard Wireframe Peer Reviews (Assignment 4)](https://sfu.instructure.com/courses/2602/assignments/12201) <span class='badge'> [Tue Aug 2 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220802T2359&p1=256)</span>
 * [Course Evaluation](https://sfu.bluera.com/SFU) <span class='badge'> [Mon Aug 8 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Course-Evaluation+Due+Date&iso=20220808T2359&p1=256)</span>   
 
 No visual journal entry this week.  

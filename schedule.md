@@ -108,7 +108,7 @@
 ## :fas fa-calendar fa-pull-left: [Week 11 (Jul 18 - 24)](https://canvas.sfu.ca/courses/69678/modules/items/2446682)
 **Peer design reviews**  
 :fas fa-check fa-fw: [Storyboard Wireframes Assignment due](https://canvas.sfu.ca/courses/69678/assignments/751349) <span class='badge'> [Mon Jul 18 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220718T2359&p1=256)</span>  
-:fas fa-pen fa-fw: [Storyboard Wireframes Peer Reviews (Assignment 4)](https://canvas.sfu.ca/courses/69678/assignments/751348) <span class='badge'> [Tue Aug 2 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Peer+Reviews+Due+Date&iso=20220802T2359&p1=256)</span>  
+:fas fa-pen fa-fw: [Storyboard Wireframes Peer Reviews (Assignment 4)](https://sfu.instructure.com/courses/2602/assignments/12201) <span class='badge'> [Tue Aug 2 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Peer+Reviews+Due+Date&iso=20220802T2359&p1=256)</span>  
 :fas fa-book fa-fw: [Guidelines for Students - Peer Review (3 minute read)](https://serc.carleton.edu/sp/library/peerreview/tips.html)  
 :fas fa-book fa-fw: [Peer Review Tips (5 minute video)](https://www.coursera.org/lecture/ux-design-fundamentals/peer-review-tips-C4rbv)  
 :fas fa-desktop fa-fw: Blackboard Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/69678/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-10) | [Recording](https://canvas.sfu.ca/courses/69678/external_tools/3544)] <span class='badge'> [Tue Jul 19 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Mini-lectures+and+Activities&iso=20220719T1430&p1=256&ah=1&am=50)</span>  
@@ -125,9 +125,9 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 12](https://canvas.sfu.ca/courses/69678/discussion_topics) <span class='badge'> [Sun Jul 31 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20220731T235900&p1=256)</span>  
 :fas fa-image fa-fw: No visual journal entry  
 
-## :fas fa-calendar fa-pull-left: [Week 13 (Aug 1 - 7)](https://canvas.sfu.ca/courses/69678/modules/items/2446683)
+## :fas fa-calendar fa-pull-left: [Week 13 (Aug 1 - 7)](https://sfu.instructure.com/courses/2602/modules/items/29722)
 **Course wrap-up**  
-:fas fa-check fa-fw: [Storyboard Wireframes Peer Reviews Assignment due](https://canvas.sfu.ca/courses/69678/assignments/751348) <span class='badge'> [Tue Aug 2 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Peer+Reviews+Due+Date&iso=20220802T2359&p1=256)</span>  
+:fas fa-check fa-fw: [Storyboard Wireframes Peer Reviews Assignment due](https://sfu.instructure.com/courses/2602/assignments/12201) <span class='badge'> [Tue Aug 2 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Peer+Reviews+Due+Date&iso=20220802T2359&p1=256)</span>  
 :fas fa-desktop fa-fw: Blackboard Course Wrap-up <span class='badge'> [Tue Aug 2 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Course+Wrap-up&iso=20220802T1430&p1=256&ah=30)</span>  
 :fas fa-keyboard fa-fw: No required readings or one-minute summaries  
 :fas fa-image fa-fw: No visual journal entry
