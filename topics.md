@@ -3,104 +3,104 @@
 ### [A](#a)|[B](#b)|[C](#c)|[D](#d)|[E](#e)|[F](#f)|[G](#g)|[H](#h)|[I](#i)|[J](#j)|K|[L](#l)|[M](#m)|[N](#n)|O|[P](#p)|Q|[R](#r)|[S](#s)|[T](#t)|[U](#u)|[V](#v)|[W](#w)|X|Y|Z  
 
 ### A
-[Accessibility](https://canvas.sfu.ca/courses/69678/modules/items/2446680)  
-[Agile UX](https://canvas.sfu.ca/courses/69678/modules/items/2446671)  
+[Accessibility](https://sfu.instructure.com/courses/2602/modules/items/29719)  
+[Agile UX](https://sfu.instructure.com/courses/2602/modules/items/29710)  
 
 ### B
-[Bias](https://canvas.sfu.ca/courses/69678/modules/items/2446674)  
+[Bias](https://sfu.instructure.com/courses/2602/modules/items/29714)  
 
 ### C
-[Cognitive Walkthroughs](https://canvas.sfu.ca/courses/69678/modules/items/2446672)  
-[Color](https://canvas.sfu.ca/courses/69678/modules/items/2446679)  
-[Conceptual Models](https://canvas.sfu.ca/courses/69678/modules/items/2446912)  
-[Contextual Inquiry](https://canvas.sfu.ca/courses/69678/modules/items/2446674)  
-[Creativity](https://canvas.sfu.ca/courses/69678/modules/items/2446912)  
+[Cognitive Walkthroughs](https://sfu.instructure.com/courses/2602/modules/items/29712)  
+[Color](https://sfu.instructure.com/courses/2602/modules/items/29718)  
+[Conceptual Models](https://sfu.instructure.com/courses/2602/modules/items/29716)  
+[Contextual Inquiry](https://sfu.instructure.com/courses/2602/modules/items/29714)  
+[Creativity](https://sfu.instructure.com/courses/2602/modules/items/29716)  
 
 ### D
-[Design Critiques](https://canvas.sfu.ca/courses/69678/modules/items/2446682)  
-[Design Ethics](https://canvas.sfu.ca/courses/69678/modules/items/2446671)  
-[Design Scenarios (also called Scenarios)](https://canvas.sfu.ca/courses/69678/modules/items/2446674)  
-[Designing for Touch](https://canvas.sfu.ca/courses/69678/modules/items/2446878)  
-[Double Diamond](https://canvas.sfu.ca/courses/69678/modules/items/2446671)  
+[Design Critiques](https://sfu.instructure.com/courses/2602/modules/items/29720)  
+[Design Ethics](https://sfu.instructure.com/courses/2602/modules/items/29710)  
+[Design Scenarios (also called Scenarios)](https://sfu.instructure.com/courses/2602/modules/items/29714)  
+[Designing for Touch](https://sfu.instructure.com/courses/2602/modules/items/29711)  
+[Double Diamond](https://sfu.instructure.com/courses/2602/modules/items/29710)  
 
 ### E
-[Emotional Design](https://canvas.sfu.ca/courses/69678/modules/items/2446671)  
-[Empathy Map](https://canvas.sfu.ca/courses/69678/modules/items/2446674)  
-[Empty States](https://canvas.sfu.ca/courses/69678/modules/items/2446878)  
+[Emotional Design](https://sfu.instructure.com/courses/2602/modules/items/29710)  
+[Empathy Map](https://sfu.instructure.com/courses/2602/modules/items/29714)  
+[Empty States](https://sfu.instructure.com/courses/2602/modules/items/29711)  
 
 ### F
-[Fitts’s Law](https://canvas.sfu.ca/courses/69678/modules/items/2446878)  
-[Five Dimensions of HCI](https://canvas.sfu.ca/courses/69678/modules/items/2446878)  
-[Five Whys](https://canvas.sfu.ca/courses/69678/modules/items/2446674)  
+[Fitts’s Law](https://sfu.instructure.com/courses/2602/modules/items/29711)  
+[Five Dimensions of HCI](https://sfu.instructure.com/courses/2602/modules/items/29711)  
+[Five Whys](https://sfu.instructure.com/courses/2602/modules/items/29714)  
 
 ### G
-[Grids](https://canvas.sfu.ca/courses/69678/modules/items/2446679)  
+[Grids](https://sfu.instructure.com/courses/2602/modules/items/29718)  
 
 ### H
-[HCI Laws](https://canvas.sfu.ca/courses/69678/modules/items/2446878)  
-[Heuristic Evaluations](https://canvas.sfu.ca/courses/69678/modules/items/2446672)  
-[Hick’s Law](https://canvas.sfu.ca/courses/69678/modules/items/2446878)  
-[Hypothesis](https://canvas.sfu.ca/courses/69678/modules/items/2446674)  
+[HCI Laws](https://sfu.instructure.com/courses/2602/modules/items/29711)  
+[Heuristic Evaluations](https://sfu.instructure.com/courses/2602/modules/items/29712)  
+[Hick’s Law](https://sfu.instructure.com/courses/2602/modules/items/29711)  
+[Hypothesis](https://sfu.instructure.com/courses/2602/modules/items/29714)  
 
 ### I
-[Icons](https://canvas.sfu.ca/courses/69678/modules/items/2446679)  
-[Indirect User Research](https://canvas.sfu.ca/courses/69678/modules/items/2446675)  
-[Interaction Design](https://canvas.sfu.ca/courses/69678/modules/items/2446878)  
-[Interviews](https://canvas.sfu.ca/courses/69678/modules/items/2446674)  
+[Icons](https://sfu.instructure.com/courses/2602/modules/items/29718)  
+[Indirect User Research](https://sfu.instructure.com/courses/2602/modules/items/29715)  
+[Interaction Design](https://sfu.instructure.com/courses/2602/modules/items/29711)  
+[Interviews](https://sfu.instructure.com/courses/2602/modules/items/29714)  
 
 ### J
-[Jakob Nielsen’s Heuristics](https://canvas.sfu.ca/courses/69678/modules/items/24466723)  
-[Jobs to Be Done Framework](https://canvas.sfu.ca/courses/69678/modules/items/2446674)  
-[Job Stories](https://canvas.sfu.ca/courses/69678/modules/items/2446674)  
+[Jakob Nielsen’s Heuristics](https://sfu.instructure.com/courses/2602/modules/items/297123)  
+[Jobs to Be Done Framework](https://sfu.instructure.com/courses/2602/modules/items/29714)  
+[Job Stories](https://sfu.instructure.com/courses/2602/modules/items/29714)  
 
 ### L
-[Layout](https://canvas.sfu.ca/courses/69678/modules/items/2446679)  
-[Lean UX](https://canvas.sfu.ca/courses/69678/modules/items/2446671)  
+[Layout](https://sfu.instructure.com/courses/2602/modules/items/29718)  
+[Lean UX](https://sfu.instructure.com/courses/2602/modules/items/29710)  
 
 ### M
-[Microcopy](https://canvas.sfu.ca/courses/69678/modules/items/2446679)  
-[Miller’s Law](https://canvas.sfu.ca/courses/69678/modules/items/2446878)  
-[Mobile Design](https://canvas.sfu.ca/courses/69678/modules/items/2446878)  
-[Multi-device Design](https://canvas.sfu.ca/courses/69678/modules/items/2446878)  
+[Microcopy](https://sfu.instructure.com/courses/2602/modules/items/29718)  
+[Miller’s Law](https://sfu.instructure.com/courses/2602/modules/items/29711)  
+[Mobile Design](https://sfu.instructure.com/courses/2602/modules/items/29711)  
+[Multi-device Design](https://sfu.instructure.com/courses/2602/modules/items/29711)  
 
 ### N
-[Norman’s Design Principles](https://canvas.sfu.ca/courses/69678/modules/items/2446673)
+[Norman’s Design Principles](https://sfu.instructure.com/courses/2602/modules/items/29716)
 
 ### P
-[Pareto Principle](https://canvas.sfu.ca/courses/69678/modules/items/2446878)  
-[Peer Reviews](https://canvas.sfu.ca/courses/69678/modules/items/2446682)  
-[Personas/Proto-Personas](https://canvas.sfu.ca/courses/69678/modules/items/2446674)  
-[Power Law of Practice](https://canvas.sfu.ca/courses/69678/modules/items/2446878)  
-[Problem Statements](https://canvas.sfu.ca/courses/69678/modules/items/2446674)  
-[Product Reaction Cards](https://canvas.sfu.ca/courses/69678/modules/items/2446671)  
-[Prototyping](https://canvas.sfu.ca/courses/69678/modules/items/2446912)  
+[Pareto Principle](https://sfu.instructure.com/courses/2602/modules/items/29711)  
+[Peer Reviews](https://sfu.instructure.com/courses/2602/modules/items/29720)  
+[Personas/Proto-Personas](https://sfu.instructure.com/courses/2602/modules/items/29714)  
+[Power Law of Practice](https://sfu.instructure.com/courses/2602/modules/items/29711)  
+[Problem Statements](https://sfu.instructure.com/courses/2602/modules/items/29714)  
+[Product Reaction Cards](https://sfu.instructure.com/courses/2602/modules/items/29710)  
+[Prototyping](https://sfu.instructure.com/courses/2602/modules/items/29716)  
 
 ### R
-[Remote User Research and Usability Techniques](https://canvas.sfu.ca/courses/69678/modules/items/2446675)  
+[Remote User Research and Usability Techniques](https://sfu.instructure.com/courses/2602/modules/items/29715)  
 
 ### S
-[Scenarios (also called Design Scenarios)](https://canvas.sfu.ca/courses/69678/modules/items/2446674)  
-[Software Design Processes](https://canvas.sfu.ca/courses/69678/modules/items/2446671)  
+[Scenarios (also called Design Scenarios)](https://sfu.instructure.com/courses/2602/modules/items/29714)  
+[Software Design Processes](https://sfu.instructure.com/courses/2602/modules/items/29710)  
 
 ### T
-[Task Analysis](https://canvas.sfu.ca/courses/69678/modules/items/2446674)  
-[Thematic Analysis](https://canvas.sfu.ca/courses/69678/modules/items/2446674)  
-[Typography](https://canvas.sfu.ca/courses/69678/modules/items/2446679)  
+[Task Analysis](https://sfu.instructure.com/courses/2602/modules/items/29714)  
+[Thematic Analysis](https://sfu.instructure.com/courses/2602/modules/items/29714)  
+[Typography](https://sfu.instructure.com/courses/2602/modules/items/29718)  
 
 ### U
-[Usability](https://canvas.sfu.ca/courses/69678/modules/items/2446671)  
-[Usability Objectives](https://canvas.sfu.ca/courses/69678/modules/items/2446671)  
-[Usability Testing](https://canvas.sfu.ca/courses/69678/modules/items/2446678)  
-[User-centered Design (UCD)](https://canvas.sfu.ca/courses/69678/modules/items/2446671)  
-[User Experience Design](https://canvas.sfu.ca/courses/69678/modules/items/2446671)  
-[User Research](https://canvas.sfu.ca/courses/69678/modules/items/2446674)  
-[User Research Analysis](https://canvas.sfu.ca/courses/69678/modules/items/2446674)  
-[User Stories](https://canvas.sfu.ca/courses/69678/modules/items/2446674)  
+[Usability](https://sfu.instructure.com/courses/2602/modules/items/29710)  
+[Usability Objectives](https://sfu.instructure.com/courses/2602/modules/items/29710)  
+[Usability Testing](https://sfu.instructure.com/courses/2602/modules/items/29717)  
+[User-centered Design (UCD)](https://sfu.instructure.com/courses/2602/modules/items/29710)  
+[User Experience Design](https://sfu.instructure.com/courses/2602/modules/items/29710)  
+[User Research](https://sfu.instructure.com/courses/2602/modules/items/29714)  
+[User Research Analysis](https://sfu.instructure.com/courses/2602/modules/items/29714)  
+[User Stories](https://sfu.instructure.com/courses/2602/modules/items/29714)  
 
 ### V
-[Visual Design](https://canvas.sfu.ca/courses/69678/modules/items/2446679)  
-[Visual Design Principles (CRAP)](https://canvas.sfu.ca/courses/69678/modules/items/2446679)  
-[Visual Hierarchy](https://canvas.sfu.ca/courses/69678/modules/items/2446679)
+[Visual Design](https://sfu.instructure.com/courses/2602/modules/items/29718)  
+[Visual Design Principles (CRAP)](https://sfu.instructure.com/courses/2602/modules/items/29718)  
+[Visual Hierarchy](https://sfu.instructure.com/courses/2602/modules/items/29718)
 
 ### W
-[Wireframes](https://canvas.sfu.ca/courses/69678/modules/items/2446912)  
+[Wireframes](https://sfu.instructure.com/courses/2602/modules/items/29716)  
